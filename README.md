@@ -1,13 +1,52 @@
 <h1 align="center">Hi 👋, I'm Alroba</h1>
-<h3 align="center">Frontend Developer | UI & UX Designer</h3>
+<h3 align="center">
+Frontend Developer | React & Next.js <br/>
+UI & UX Designer
+</h3>
+
+<p align="center">
+I build modern, responsive, and user-friendly web applications.<br/>
+Passionate about clean UI, smooth UX, and performance.
+</p>
+
+---
+
+## 👨‍💻 About Me
+- 🎯 Frontend Developer focused on **React & Next.js**
+- 🎨 Strong background in **UI / UX Design**
+- ⚡ Love building clean, animated, and scalable interfaces
+- 🌱 Currently improving my **TypeScript & Advanced React**
+- 🚀 Always learning and building real projects
 
 ---
 
 ## 🚀 Skills & Tools
+<p align="center">
+  <img 
+    src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,redux,nextjs,ts,sass,figma&theme=dark&perline=6" 
+  />
+</p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,redux,nextjs,ts,sass,figma&theme=dark" />
+<sub>✨ Animated SVG icons powered by skillicons.dev</sub>
 </p>
+
+---
+
+## 🧩 Frontend Development
+- HTML5, CSS3, JavaScript (ES6+)
+- React, Redux, Next.js
+- Tailwind CSS, Bootstrap, Sass
+- TypeScript
+- Responsive & Mobile-first Design
+
+---
+
+## 🎨 UI / UX Design
+- Wireframing & Prototyping
+- User-centered design
+- Design systems & components
+- Figma for UI/UX workflows
 
 ---
 
@@ -22,3 +61,13 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alroba25&layout=compact&theme=tokyonight" />
 </p>
+
+---
+
+## 🐍 Contribution Snake
+![Snake animation](https://github.com/Alroba25/Alroba25/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 📫 Contact Me
+- GitHub: https://github.com/Alroba25
