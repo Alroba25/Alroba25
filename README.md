@@ -21,17 +21,19 @@ Passionate about clean UI, smooth UX, and performance.
 ---
 
 ## 🚀 Skills & Tools
-<p align="center">
-  <img 
-    src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,redux,nextjs,ts,sass,figma&theme=dark&perline=6" 
-  />
-</p>
 
 <p align="center">
-<sub>✨ Animated SVG icons powered by skillicons.dev</sub>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="50"/>
 </p>
-
----
 
 ## 🧩 Frontend Development
 - HTML5, CSS3, JavaScript (ES6+)
