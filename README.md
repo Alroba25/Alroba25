@@ -26,11 +26,48 @@ I’m always learning, refining my skills, and aiming to write **maintainable, p
 
 ---
 
-## 🚀 Skills & Tools
+## 🛠️ Skills
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,redux,nextjs,ts,sass,figma&theme=dark&perline=6" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=html&theme=dark" /><br/>HTML
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=css&theme=dark" /><br/>CSS
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=js&theme=dark" /><br/>JavaScript
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=ts&theme=dark" /><br/>TypeScript
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=react&theme=dark" /><br/>React
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" /><br/>Next.js
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=redux&theme=dark" /><br/>Redux
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" /><br/>Tailwind
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" /><br/>Bootstrap
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=sass&theme=dark" /><br/>Sass
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=figma&theme=dark" /><br/>Figma
+    </td>
+  </tr>
+</table>
+
 
 
 ## 🧩 Frontend Development
@@ -57,11 +94,41 @@ I’m always learning, refining my skills, and aiming to write **maintainable, p
 
 ---
 
-## 🧠 Tech Stack
+## 🚀 What I Built
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,sass,bootstrap,figma&theme=dark&perline=6" />
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      ⚡ <strong>High-performance Applications</strong><br/>
+      React & Next.js apps optimized for speed, scalability, and SEO.
+    </td>
+    <td width="50%">
+      🧩 <strong>Component-Based Systems</strong><br/>
+      Reusable, scalable components with clean architecture.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      🎨 <strong>Pixel-Perfect UI</strong><br/>
+      Precise UI implementation from Figma designs.
+    </td>
+    <td width="50%">
+      📱 <strong>Responsive Design</strong><br/>
+      Mobile-first layouts that work seamlessly on all devices.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      🧠 <strong>State Management</strong><br/>
+      Clean and predictable state handling using Redux.
+    </td>
+    <td width="50%">
+      ♿ <strong>Accessibility & UX</strong><br/>
+      Inclusive, accessible, and user-friendly interfaces.
+    </td>
+  </tr>
+</table>
+
 
 
 ---
