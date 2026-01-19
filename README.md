@@ -12,28 +12,26 @@ Passionate about clean UI, smooth UX, and performance.
 ---
 
 ## 👨‍💻 About Me
-- 🎯 Frontend Developer focused on **React & Next.js**
-- 🎨 Strong background in **UI / UX Design**
-- ⚡ Love building clean, animated, and scalable interfaces
-- 🌱 Currently improving my **TypeScript & Advanced React**
-- 🚀 Always learning and building real projects
+
+I’m a Frontend Developer with a strong focus on building **scalable, high-performance, and user-centric web applications**.  
+I specialize in modern frontend technologies and enjoy turning complex problems into **clean, intuitive, and elegant interfaces**.
+
+I have solid experience working with **React and Next.js**, building reusable components, managing global state efficiently, and delivering responsive designs that work seamlessly across devices.
+
+With a background in **UI & UX Design**, I don’t just write code —  
+I care deeply about **user experience, accessibility, performance, and visual consistency**.
+
+I’m always learning, refining my skills, and aiming to write **maintainable, production-ready code** that follows best practices and modern standards.
+
 
 ---
 
 ## 🚀 Skills & Tools
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="50"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,redux,nextjs,ts,sass,figma&theme=dark&perline=6" />
 </p>
+
 
 ## 🧩 Frontend Development
 - HTML5, CSS3, JavaScript (ES6+)
@@ -59,10 +57,12 @@ Passionate about clean UI, smooth UX, and performance.
 
 ---
 
-## 🔥 Most Used Languages
+## 🧠 Tech Stack
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alroba25&layout=compact&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,sass,bootstrap,figma&theme=dark&perline=6" />
 </p>
+
 
 ---
 
