@@ -37,7 +37,7 @@ I’m always learning, refining my skills, and aiming to write **maintainable, p
       <img src="https://skillicons.dev/icons?i=css&theme=dark" /><br/>CSS
     </td>
     <td align="center" width="90">
-[      <img src="https://skillicons.dev/icons?i=js&theme=dark" /><br/>JavaScript](https://camo.githubusercontent.com/739ff4cc642d6d72a274d75aa0a16d85782c91011453641c1bcc47d872faf42d/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a732d69636f6e2e737667)
+[      <img src="[https://skillicons.dev/icons?i=js&theme=dark](https://camo.githubusercontent.com/739ff4cc642d6d72a274d75aa0a16d85782c91011453641c1bcc47d872faf42d/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a732d69636f6e2e737667)" /><br/>JavaScript
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=ts&theme=dark" /><br/>TypeScript
